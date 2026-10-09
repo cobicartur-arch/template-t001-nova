@@ -1,22 +1,27 @@
 {
-  "title": "Najczęściej zadawane pytania",
-  "description": "Najważniejsze informacje o współpracy, procesie i efektach, które mogą Państwa interesować przed rozpoczęciem projektu.",
+  "title": "Perguntas frequentes",
+  "description": "Tudo que sua equipe precisa saber sobre personalização, prazos, volumetria e logística dos kits Na'kau.",
+  "tagline": "FAQ",
   "items": [
     {
-      "q": "Ile trwa przygotowanie nowej strony internetowej?",
-      "a": "Standardowy projekt realizujemy zwykle w ciągu 2 do 4 tygodni. Termin zależy od zakresu strony, liczby podstron oraz szybkości przekazania materiałów."
+      "q": "Qual é a quantidade mínima por pedido institucional?",
+      "a": "O pedido mínimo padrão é de 50 unidades por modelo de kit, viabilizando a produção artesanal e a personalização completa das embalagens."
     },
     {
-      "q": "Czy pomagacie w przygotowaniu treści i zdjęć?",
-      "a": "Tak. Możemy uporządkować istniejące materiały, przygotować strukturę treści oraz wskazać kierunek dla zdjęć i grafik, aby całość była spójna z marką."
+      "q": "Como funciona a personalização com a marca da nossa empresa?",
+      "a": "Personalizamos a carta institucional interna com a sua mensagem, aplicamos fitas ou tags na identidade visual da sua marca e ajustamos detalhes conforme sua diretriz institucional."
     },
     {
-      "q": "Czy strona będzie dobrze działać na telefonie?",
-      "a": "Tak. Projektujemy od początku z myślą o telefonach, tabletach i komputerach. Każdy kluczowy widok sprawdzamy w kilku szerokościach ekranu."
+      "q": "Qual é o prazo médio de produção e entrega?",
+      "a": "Geralmente de 15 a 25 dias úteis a partir da aprovação do briefing e do layout final da personalização, variando conforme a volumetria e cidade de entrega."
     },
     {
-      "q": "Czy po publikacji mogę samodzielnie edytować stronę?",
-      "a": "Tak. Przygotowujemy strukturę tak, aby najważniejsze treści można było później łatwo aktualizować. Po wdrożeniu przekazujemy również krótką instrukcję obsługi."
+      "q": "Os kits atendem aos critérios de comunicação ESG da empresa?",
+      "a": "Sim! Cada kit é acompanhado por dados de rastreabilidade, número de produtores e comunidades beneficiadas e garantia de cadeia livre de desmatamento para o seu relatório de sustentabilidade."
+    },
+    {
+      "q": "A entrega é realizada para todo o Brasil?",
+      "a": "Sim. Realizamos envio logístico protegido para todo o território nacional, com embalagens especiais que preservam a integridade e textura do chocolate amazônico."
     }
   ]
 }

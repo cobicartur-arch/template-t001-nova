@@ -1,18 +1,18 @@
 {
-  "eyebrow": "STRATEGIA / DESIGN / TECHNOLOGIA",
-  "heading": "Nowe możliwości dla",
-  "headingAccent": "ambitnych marek",
-  "description": "Tworzymy nowoczesne strony internetowe, które wzmacniają wizerunek, przyciągają klientów i realnie wspierają rozwój biznesu.",
-  "primaryCTA": { "label": "Rozpocznij projekt", "href": "/kontakt/" },
-  "secondaryCTA": { "label": "Poznaj nas", "href": "/o-nas/" },
-  "trustedBy": "Zaufali nam",
-  "trustItems": ["MODO", "LUMI", "KOVO", "NOMA", "ASPEKT"],
+  "eyebrow": "ESG • SOCIOBIOECONOMIA • AMAZÔNIA LEGÍTIMA",
+  "heading": "Brindes corporativos que se tornam",
+  "headingAccent": "experiências com propósito.",
+  "description": "Kits artesanais nascidos no coração da Amazônia. Cada presente Na'kau fortalece reputação institucional, comunicação ESG e os relacionamentos mais estratégicos da sua marca.",
+  "primaryCTA": { "label": "Solicitar proposta corporativa", "href": "#kontakt" },
+  "secondaryCTA": { "label": "Conhecer os kits", "href": "#realizacje" },
+  "trustedBy": "Insumos & Origem Rastreável",
+  "trustItems": ["CACAU NATIVO", "CUPUAÇU", "CASTANHA DO PARÁ", "CAFÉ AMAZÔNICO", "ORIGEM RASTREÁVEL", "ESG LEGÍTIMO"],
   "image": "/assets/images/t001-nova/t001-nova-hero.webp",
-  "imageAlt": "Strateg pracujący przy laptopie",
+  "imageAlt": "Produtores da Amazônia parceiros da Na'kau",
   "stats": [
-    { "value": "2000+", "label": "Zrealizowanych projektów" },
-    { "value": "10+", "label": "Lat doświadczenia" },
-    { "value": "800+", "label": "Godzin pracy nad produktem" },
-    { "value": "150M+", "label": "Przychodu u naszych klientów" }
+    { "value": "+120", "label": "Produtores fortalecidos" },
+    { "value": "+40", "label": "Comunidades beneficiadas" },
+    { "value": "100%", "label": "Amazônia rastreável" },
+    { "value": "0", "label": "Desmatamento na cadeia" }
   ]
 }

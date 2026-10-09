@@ -1,17 +1,28 @@
 {
-  "title": "Ludzie, którzy tworzą wartość",
-  "description": "Jesteśmy zespołem specjalistów, którzy łączą pasję do technologii z wyczuciem dobrego designu. Każdy projekt dopasowujemy do marki, jej celów i odbiorców.",
-  "image": "/assets/images/t001-nova/t001-nova-about-team.webp",
-  "imageAlt": "Zespół Nova podczas pracy nad projektem",
-  "checks": ["Strategiczne podejście", "Indywidualne podejście", "Realne wsparcie"],
-  "teamCount": "10+",
-  "teamLabel": "specjalistów w zespole",
-  "teamAriaLabel": "Nasz zespół",
-  "teamAvatars": [
-    { "src": "/assets/images/t001-nova/t001-nova-avatar-01@220.webp", "alt": "Członkini zespołu Nova" },
-    { "src": "/assets/images/t001-nova/t001-nova-avatar-02@220.webp", "alt": "Członek zespołu Nova" },
-    { "src": "/assets/images/t001-nova/t001-nova-avatar-03@220.webp", "alt": "Członkini zespołu Nova" }
-  ],
-  "buttonLabel": "Poznaj zespół",
-  "buttonHref": "#zespol"
+  "title": "Quatro compromissos que sustentam a Na'kau",
+  "description": "Trabalhamos diretamente com quem vive e protege a Amazônia, mantendo a floresta em pé e valorizando saberes ancestrais.",
+  "rolesLabel": "Compromissos",
+  "members": [
+    {
+      "name": "Sociobioeconomia Real",
+      "role": "Florestas Protegidas",
+      "bio": "Cadeias produtivas que mantêm a floresta em pé e remuneram com justiça os povos e comunidades tradicionais.",
+      "initials": "SB",
+      "skills": ["Renda Justa", "Cacau Nativo", "Zero Desmatamento"]
+    },
+    {
+      "name": "Identidade Territorial",
+      "role": "Cultura & Saberes",
+      "bio": "Cada presente carrega a história, a cultura e a assinatura dos territórios amazônicos onde nasce.",
+      "initials": "IT",
+      "skills": ["Cupuaçu", "Castanha do Pará", "Comunidades"]
+    },
+    {
+      "name": "Impacto Mensurável",
+      "role": "Comunicação ESG",
+      "bio": "Geração de renda, valorização de cadeias sustentáveis e indicadores reais para o relatório institucional da sua marca.",
+      "initials": "ESG",
+      "skills": ["Relatório ESG", "Rastreabilidade", "Transparência"]
+    }
+  ]
 }

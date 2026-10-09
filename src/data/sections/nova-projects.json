@@ -1,20 +1,32 @@
 {
-  "title": "Pomysły zamieniamy w realne efekty",
-  "description": "Łączymy strategiczne myślenie, dopracowany design i nowoczesne technologie, aby tworzyć strony, które nie tylko wyglądają dobrze, ale przede wszystkim działają.",
-  "linkLabel": "Zobacz realizacje",
-  "linkHref": "/realizacje/",
+  "title": "Coleção de Kits Na'kau Amazônia",
+  "description": "Quatro experiências. Um mesmo propósito amazônico. Kits curados para cada momento institucional — do gesto memorável em escala ao presente exclusivo para lideranças.",
+  "linkLabel": "Solicitar proposta corporativa",
+  "linkHref": "#kontakt",
   "items": [
     {
-      "category": "Strony internetowe",
-      "title": "Marka premium z nową stroną",
+      "category": "Ações em Escala • R$ 25 / un (mín. 50 un)",
+      "title": "Kit 01: Kit Essência — 1 barra cupulate, caixa com palha e carta personalizada",
       "image": "/assets/images/t001-nova/t001-nova-project-laptop.webp",
-      "alt": "Laptop z projektem strony internetowej"
+      "alt": "Kit Essência Na'kau"
     },
     {
-      "category": "Wizerunek marki",
-      "title": "Nowy wizerunek dla ambitnej marki",
+      "category": "Equilíbrio & Presença • R$ 45 / un (mín. 50 un)",
+      "title": "Kit 02: Kit Encontro — 1 barra cupulate, 1 barra chocopulate e carta premium",
       "image": "/assets/images/t001-nova/t001-nova-project-building.webp",
-      "alt": "Nowoczesny budynek jako przykład realizacji"
+      "alt": "Kit Encontro Na'kau"
+    },
+    {
+      "category": "Mais Escolhido / C-Level • R$ 75 / un (mín. 50 un)",
+      "title": "Kit 03: Kit Sabores da Floresta — Barra cupulate 40g, jujuba de cupuaçu, 10 mini-barras e caixa premium",
+      "image": "/assets/images/t001-nova/t001-nova-project-laptop.webp",
+      "alt": "Kit Sabores da Floresta Na'kau"
+    },
+    {
+      "category": "Alto Impacto / Liderança • R$ 220 / un (mín. 50 un)",
+      "title": "Kit 04: Kit Embaixador — Jornada completa com barras 40g e 80g, jujuba, crocantinho e café amazônico",
+      "image": "/assets/images/t001-nova/t001-nova-project-building.webp",
+      "alt": "Kit Embaixador Na'kau"
     }
   ]
 }

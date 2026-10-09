@@ -1,12 +1,32 @@
 {
-  "title": "Nasze usługi",
-  "description": "Kompleksowe wsparcie na każdym etapie, od koncepcji po wdrożenie i dalszy rozwój.",
-  "linkLabel": "Zobacz wszystkie",
-  "linkHref": "/uslugi/",
+  "title": "A ponte entre empresas, território amazônico e impacto positivo",
+  "description": "Criamos kits institucionais artesanais que carregam a Amazônia legítima — feitos com cacau nativo, cadeias rastreáveis e o trabalho de produtores parceiros. Narrativa pronta para sua comunicação ESG.",
+  "linkLabel": "Conhecer nossa curadoria",
+  "linkHref": "#kontakt",
   "items": [
-    { "number": "01.", "icon": "palette", "title": "UX/UI Design", "description": "Nowoczesny i funkcjonalny design dopasowany do Twojej marki. Projektujemy doświadczenia, które są intuicyjne i wspierają cele biznesowe." },
-    { "number": "02.", "icon": "browser", "title": "Strony internetowe", "description": "Szybkie, responsywne i zoptymalizowane rozwiązania dla biznesu. Tworzymy strony, które dobrze wyglądają i skutecznie prowadzą do kontaktu." },
-    { "number": "03.", "icon": "paint-brush", "title": "Identyfikacja wizualna", "description": "Spójny wizerunek, który wyróżnia markę i buduje zaufanie. Łączymy strategię, typografię i detale w jeden rozpoznawalny kierunek." },
-    { "number": "04.", "icon": "lifebuoy", "title": "Wsparcie i rozwój", "description": "Stała opieka i rozwój strony po uruchomieniu projektu. Pomagamy utrzymać stronę aktualną, sprawną i gotową na kolejne etapy." }
+    {
+      "number": "01.",
+      "icon": "tree",
+      "title": "Origem amazônica",
+      "description": "Cacau nativo, cupuaçu, castanha do Pará e café — direto dos territórios produtores com rastreabilidade total."
+    },
+    {
+      "number": "02.",
+      "icon": "users",
+      "title": "Produção artesanal",
+      "description": "Feito por mãos amazônicas, com saberes tradicionais e cuidado em cada etapa da colheita e manufatura."
+    },
+    {
+      "number": "03.",
+      "icon": "award",
+      "title": "Padrão premium",
+      "description": "Embalagens de alta qualidade, carta institucional personalizada e curadoria estética refinada para o mundo corporativo."
+    },
+    {
+      "number": "04.",
+      "icon": "leaf",
+      "title": "ESG legítimo",
+      "description": "Geração de renda direta em territórios amazônicos, valorização da sociobioeconomia e indicadores de impacto concretos."
+    }
   ]
 }

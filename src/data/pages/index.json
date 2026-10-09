@@ -1,9 +1,9 @@
 {
   "seo": {
-    "title": "Nova, strony internetowe dla ambitnych marek",
-    "description": "Tworzymy nowoczesne strony internetowe, które wzmacniają wizerunek, przyciągają klientów i wspierają rozwój biznesu."
+    "title": "Na'kau Amazônia — Brindes Corporativos com Propósito Amazônico",
+    "description": "Brindes corporativos premium conectados à sociobioeconomia amazônica, ESG e impacto positivo. Fortaleça reputação institucional com kits artesanais Na'kau."
   },
-  "heading": "Nowe możliwości dla ambitnych marek",
+  "heading": "Brindes corporativos que se tornam experiências com propósito",
   "sections": [
     { "id": "navbar", "variant": "floating" },
     { "id": "hero", "variant": "nova" },
