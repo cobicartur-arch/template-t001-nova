@@ -1,402 +1,566 @@
 ﻿{
-  "pl": {
-    "page": {
-      "title": "Na'kau Amazônia — Brindes Corporativos com Propósito Amazônico",
-      "description": "Brindes corporativos premium conectados à sociobioeconomia amazônica, ESG e impacto positivo. Fortaleça reputação institucional com kits artesanais Na'kau.",
-      "heading": "Brindes corporativos que se tornam experiências com propósito"
-    },
-    "demoBanner": {
-      "label": "Na'kau Amazônia — Experiências corporativas com propósito e sustentabilidade.",
-      "downloadLabel": "Conhecer os kits",
-      "downloadHref": "#realizacje",
-      "customizeLabel": "Solicitar proposta corporativa",
-      "customizeHref": "#kontakt"
-    },
-    "navigation": {
-      "menu": [
-        { "label": "Kits", "href": "#realizacje" },
-        { "label": "Proposta & Solução", "href": "#uslugi" },
-        { "label": "Impacto & ESG", "href": "#zespol" },
-        { "label": "FAQ", "href": "#faq" }
-      ],
-      "cta": {
-        "label": "Solicitar proposta",
-        "hoverLabel": "Falar com a curadoria",
-        "href": "#kontakt"
-      },
-      "aria": {
-        "menuOpen": "Abrir menu de navegação",
-        "menuClose": "Fechar menu",
-        "menuExpand": "Expandir submenu",
-        "navMain": "Navegação principal",
-        "drawer": "Menu de navegação"
-      },
-      "languageLabel": "Idioma"
-    },
-    "sections": {
-      "nova-hero-wireframe": {
-        "eyebrow": "ESG • SOCIOBIOECONOMIA • AMAZÔNIA LEGÍTIMA",
-        "heading": "Brindes corporativos que se tornam",
-        "headingAccent": "experiências com propósito.",
-        "description": "Kits artesanais nascidos no coração da Amazônia. Cada presente Na'kau fortalece reputação institucional, comunicação ESG e os relacionamentos mais estratégicos da sua marca.",
-        "primaryCTA": { "label": "Solicitar proposta corporativa", "href": "#kontakt" },
-        "secondaryCTA": { "label": "Conhecer os kits", "href": "#realizacje" },
-        "trustedBy": "Insumos & Origem Rastreável",
-        "trustItems": ["CACAU NATIVO", "CUPUAÇU", "CASTANHA DO PARÁ", "CAFÉ AMAZÔNICO", "ORIGEM RASTREÁVEL", "ESG LEGÍTIMO"],
-        "image": "/assets/images/t001-nova/t001-nova-hero.webp",
-        "imageAlt": "Produtores da Amazônia parceiros da Na'kau",
-        "stats": [
-          { "value": "+120", "label": "Produtores fortalecidos" },
-          { "value": "+40", "label": "Comunidades beneficiadas" },
-          { "value": "100%", "label": "Amazônia rastreável" },
-          { "value": "0", "label": "Desmatamento na cadeia" }
-        ]
-      },
-      "nova-services": {
-        "title": "A ponte entre empresas, território amazônico e impacto positivo",
-        "description": "Criamos kits institucionais artesanais que carregam a Amazônia legítima — feitos com cacau nativo, cadeias rastreáveis e o trabalho de produtores parceiros. Narrativa pronta para sua comunicação ESG.",
-        "linkLabel": "Conhecer nossa curadoria",
-        "linkHref": "#kontakt",
-        "items": [
-          { "number": "01.", "icon": "map-pin", "title": "Origem amazônica", "description": "Cacau nativo, cupuaçu, castanha do Pará e café — direto dos territórios produtores com rastreabilidade total." },
-          { "number": "02.", "icon": "users", "title": "Produção artesanal", "description": "Feito por mãos amazônicas, com saberes tradicionais e cuidado em cada etapa da colheita e manufatura." },
-          { "number": "03.", "icon": "medal", "title": "Padrão premium", "description": "Embalagens de alta qualidade, carta institucional personalizada e curadoria estética refinada para o mundo corporativo." },
-          { "number": "04.", "icon": "shield", "title": "ESG legítimo", "description": "Geração de renda direta em territórios amazônicos, valorização da sociobioeconomia e indicadores de impacto concretos." }
-        ]
-      },
-      "nova-projects": {
-        "title": "Coleção de Kits Na'kau Amazônia",
-        "description": "Quatro experiências. Um mesmo propósito amazônico. Kits curados para cada momento institucional — do gesto memorável em escala ao presente exclusivo para lideranças.",
-        "linkLabel": "Solicitar proposta corporativa",
-        "linkHref": "#kontakt",
-        "items": [
-          {
-            "category": "Ações em Escala • R$ 25 / un (mín. 50 un)",
-            "title": "Kit 01: Kit Essência — 1 barra cupulate, caixa com palha e carta personalizada",
-            "image": "/assets/images/t001-nova/t001-nova-project-laptop.webp",
-            "alt": "Kit Essência Na'kau"
-          },
-          {
-            "category": "Equilíbrio & Presença • R$ 45 / un (mín. 50 un)",
-            "title": "Kit 02: Kit Encontro — 1 barra cupulate, 1 barra chocopulate e carta premium",
-            "image": "/assets/images/t001-nova/t001-nova-project-building.webp",
-            "alt": "Kit Encontro Na'kau"
-          },
-          {
-            "category": "Mais Escolhido / C-Level • R$ 75 / un (mín. 50 un)",
-            "title": "Kit 03: Kit Sabores da Floresta — Barra cupulate 40g, jujuba de cupuaçu, 10 mini-barras e caixa premium",
-            "image": "/assets/images/t001-nova/t001-nova-project-laptop.webp",
-            "alt": "Kit Sabores da Floresta Na'kau"
-          },
-          {
-            "category": "Alto Impacto / Liderança • R$ 220 / un (mín. 50 un)",
-            "title": "Kit 04: Kit Embaixador — Jornada completa com barras 40g e 80g, jujuba, crocantinho e café amazônico",
-            "image": "/assets/images/t001-nova/t001-nova-project-building.webp",
-            "alt": "Kit Embaixador Na'kau"
-          }
-        ]
-      },
-      "nova-team": {
-        "title": "Quatro compromissos que sustentam a Na'kau",
-        "description": "Trabalhamos diretamente com quem vive e protege a Amazônia, mantendo a floresta em pé e valorizando saberes ancestrais.",
-        "rolesLabel": "Compromissos",
-        "members": [
-          {
-            "name": "Sociobioeconomia Real",
-            "role": "Florestas Protegidas",
-            "bio": "Cadeias produtivas que mantêm a floresta em pé e remuneram com justiça os povos e comunidades tradicionais.",
-            "initials": "SB",
-            "skills": ["Renda Justa", "Cacau Nativo", "Zero Desmatamento"]
-          },
-          {
-            "name": "Identidade Territorial",
-            "role": "Cultura & Saberes",
-            "bio": "Cada presente carrega a história, a cultura e a assinatura dos territórios amazônicos onde nasce.",
-            "initials": "IT",
-            "skills": ["Cupuaçu", "Castanha do Pará", "Comunidades"]
-          },
-          {
-            "name": "Impacto Mensurável",
-            "role": "Comunicação ESG",
-            "bio": "Geração de renda, valorização de cadeias sustentáveis e indicadores reais para o relatório institucional da sua marca.",
-            "initials": "ESG",
-            "skills": ["Relatório ESG", "Rastreabilidade", "Transparência"]
-          }
-        ]
-      },
-      "faq3": {
-        "title": "Perguntas frequentes",
-        "description": "Tudo que sua equipe precisa saber sobre personalização, prazos, volumetria e logística dos kits Na'kau.",
-        "tagline": "FAQ",
-        "items": [
-          {
-            "q": "Qual é a quantidade mínima por pedido institucional?",
-            "a": "O pedido mínimo padrão é de 50 unidades por modelo de kit, viabilizando a produção artesanal e a personalização completa das embalagens."
-          },
-          {
-            "q": "Como funciona a personalização com a marca da nossa empresa?",
-            "a": "Personalizamos a carta institucional interna com a sua mensagem, aplicamos fitas ou tags na identidade visual da sua marca e ajustamos detalhes conforme sua diretriz institucional."
-          },
-          {
-            "q": "Qual é o prazo médio de produção e entrega?",
-            "a": "Geralmente de 15 a 25 dias úteis a partir da aprovação do briefing e do layout final da personalização, variando conforme a volumetria e cidade de entrega."
-          },
-          {
-            "q": "Os kits atendem aos critérios de comunicação ESG da empresa?",
-            "a": "Sim! Cada kit é acompanhado por dados de rastreabilidade, número de produtores e comunidades beneficiadas e garantia de cadeia livre de desmatamento para o seu relatório de sustentabilidade."
-          },
-          {
-            "q": "A entrega é realizada para todo o Brasil?",
-            "a": "Sim. Realizamos envio logístico protegido para todo o território nacional, com embalagens especiais que preservam a integridade e textura do chocolate amazônico."
-          }
-        ]
-      },
-      "testimonial-v2": {
-        "title": "Mais que brinde. Um ativo institucional.",
-        "description": "Manifesto da parceria entre marcas conscientes e o território amazônico.",
-        "avatarAltPrefix": "Na'kau",
-        "items": [
-          {
-            "quote": "Mais do que oferecer produtos institucionais, construímos parcerias capazes de gerar impacto social e transformar ações corporativas em iniciativas alinhadas às agendas contemporâneas de ESG.",
-            "author": "Na'kau Amazônia",
-            "initials": "NK",
-            "role": "Curadoria Institucional",
-            "avatar": "https://i.pravatar.cc/150?u=nakau-amazonia"
-          },
-          {
-            "quote": "Seu presente institucional pode gerar mais do que lembrança — pode gerar pertencimento e orgulho de fazer parte da preservação da floresta.",
-            "author": "Comunidades Parceiras",
-            "initials": "CP",
-            "role": "Produtores da Amazônia",
-            "avatar": "https://i.pravatar.cc/150?u=produtores-amazonia"
-          }
-        ]
-      }
-    },
-    "footer": {
-      "eyebrow": "Na'kau Amazônia",
-      "heading": "Transforme seus brindes em experiências com propósito",
-      "description": "Fale com a nossa equipe de curadoria corporativa e monte uma proposta sob medida para sua marca.",
-      "primaryLabel": "Solicitar proposta corporativa",
-      "primaryHref": "#kontakt",
-      "secondaryLabel": "Conhecer todos os kits",
-      "secondaryHref": "#realizacje",
-      "legalLinks": [
-        { "label": "Privacidade", "href": "/polityka-prywatnosci/" },
-        { "label": "Termos e Condições", "href": "/cookies/" }
-      ],
-      "footerLinks": [
-        { "label": "Kits", "href": "#realizacje" },
-        { "label": "Proposta", "href": "#uslugi" },
-        { "label": "Impacto ESG", "href": "#zespol" },
-        { "label": "FAQ", "href": "#faq" }
-      ],
-      "ariaLegal": "Documentos legais",
-      "ariaNavigation": "Navegação do rodapé",
-      "copyright": "© 2026 Na'kau Amazônia. Todos os direitos reservados.",
-      "attributionPrefix": "Na'kau Amazônia — ",
-      "attributionLinkLabel": "Sociobioeconomia & Impacto",
-      "attributionLinkHref": "https://nakau.com.br"
-    }
-  },
-  "en": {
-    "page": {
-      "title": "Na'kau Amazônia — Brindes Corporativos com Propósito Amazônico",
-      "description": "Brindes corporativos premium conectados à sociobioeconomia amazônica, ESG e impacto positivo. Fortaleça reputação institucional com kits artesanais Na'kau.",
-      "heading": "Brindes corporativos que se tornam experiências com propósito"
-    },
-    "demoBanner": {
-      "label": "Na'kau Amazônia — Experiências corporativas com propósito e sustentabilidade.",
-      "downloadLabel": "Conhecer os kits",
-      "downloadHref": "#realizacje",
-      "customizeLabel": "Solicitar proposta corporativa",
-      "customizeHref": "#kontakt"
-    },
-    "navigation": {
-      "menu": [
-        { "label": "Kits", "href": "#realizacje" },
-        { "label": "Proposta & Solução", "href": "#uslugi" },
-        { "label": "Impacto & ESG", "href": "#zespol" },
-        { "label": "FAQ", "href": "#faq" }
-      ],
-      "cta": {
-        "label": "Solicitar proposta",
-        "hoverLabel": "Falar com a curadoria",
-        "href": "#kontakt"
-      },
-      "aria": {
-        "menuOpen": "Abrir menu de navegação",
-        "menuClose": "Fechar menu",
-        "menuExpand": "Expandir submenu",
-        "navMain": "Navegação principal",
-        "drawer": "Menu de navegação"
-      },
-      "languageLabel": "Language"
-    },
-    "sections": {
-      "nova-hero-wireframe": {
-        "eyebrow": "ESG • SOCIOBIOECONOMIA • AMAZÔNIA LEGÍTIMA",
-        "heading": "Brindes corporativos que se tornam",
-        "headingAccent": "experiências com propósito.",
-        "description": "Kits artesanais nascidos no coração da Amazônia. Cada presente Na'kau fortalece reputação institucional, comunicação ESG e os relacionamentos mais estratégicos da sua marca.",
-        "primaryCTA": { "label": "Solicitar proposta corporativa", "href": "#kontakt" },
-        "secondaryCTA": { "label": "Conhecer os kits", "href": "#realizacje" },
-        "trustedBy": "Insumos & Origem Rastreável",
-        "trustItems": ["CACAU NATIVO", "CUPUAÇU", "CASTANHA DO PARÁ", "CAFÉ AMAZÔNICO", "ORIGEM RASTREÁVEL", "ESG LEGÍTIMO"],
-        "image": "/assets/images/t001-nova/t001-nova-hero.webp",
-        "imageAlt": "Produtores da Amazônia parceiros da Na'kau",
-        "stats": [
-          { "value": "+120", "label": "Produtores fortalecidos" },
-          { "value": "+40", "label": "Comunidades beneficiadas" },
-          { "value": "100%", "label": "Amazônia rastreável" },
-          { "value": "0", "label": "Desmatamento na cadeia" }
-        ]
-      },
-      "nova-services": {
-        "title": "A ponte entre empresas, território amazônico e impacto positivo",
-        "description": "Criamos kits institucionais artesanais que carregam a Amazônia legítima — feitos com cacau nativo, cadeias rastreáveis e o trabalho de produtores parceiros. Narrativa pronta para sua comunicação ESG.",
-        "linkLabel": "Conhecer nossa curadoria",
-        "linkHref": "#kontakt",
-        "items": [
-          { "number": "01.", "icon": "map-pin", "title": "Origem amazônica", "description": "Cacau nativo, cupuaçu, castanha do Pará e café — direto dos territórios produtores com rastreabilidade total." },
-          { "number": "02.", "icon": "users", "title": "Produção artesanal", "description": "Feito por mãos amazônicas, com saberes tradicionais e cuidado em cada etapa da colheita e manufatura." },
-          { "number": "03.", "icon": "medal", "title": "Padrão premium", "description": "Embalagens de alta qualidade, carta institucional personalizada e curadoria estética refinada para o mundo corporativo." },
-          { "number": "04.", "icon": "shield", "title": "ESG legítimo", "description": "Geração de renda direta em territórios amazônicos, valorização da sociobioeconomia e indicadores de impacto concretos." }
-        ]
-      },
-      "nova-projects": {
-        "title": "Coleção de Kits Na'kau Amazônia",
-        "description": "Quatro experiências. Um mesmo propósito amazônico. Kits curados para cada momento institucional — do gesto memorável em escala ao presente exclusivo para lideranças.",
-        "linkLabel": "Solicitar proposta corporativa",
-        "linkHref": "#kontakt",
-        "items": [
-          {
-            "category": "Ações em Escala • R$ 25 / un (mín. 50 un)",
-            "title": "Kit 01: Kit Essência — 1 barra cupulate, caixa com palha e carta personalizada",
-            "image": "/assets/images/t001-nova/t001-nova-project-laptop.webp",
-            "alt": "Kit Essência Na'kau"
-          },
-          {
-            "category": "Equilíbrio & Presença • R$ 45 / un (mín. 50 un)",
-            "title": "Kit 02: Kit Encontro — 1 barra cupulate, 1 barra chocopulate e carta premium",
-            "image": "/assets/images/t001-nova/t001-nova-project-building.webp",
-            "alt": "Kit Encontro Na'kau"
-          },
-          {
-            "category": "Mais Escolhido / C-Level • R$ 75 / un (mín. 50 un)",
-            "title": "Kit 03: Kit Sabores da Floresta — Barra cupulate 40g, jujuba de cupuaçu, 10 mini-barras e caixa premium",
-            "image": "/assets/images/t001-nova/t001-nova-project-laptop.webp",
-            "alt": "Kit Sabores da Floresta Na'kau"
-          },
-          {
-            "category": "Alto Impacto / Liderança • R$ 220 / un (mín. 50 un)",
-            "title": "Kit 04: Kit Embaixador — Jornada completa com barras 40g e 80g, jujuba, crocantinho e café amazônico",
-            "image": "/assets/images/t001-nova/t001-nova-project-building.webp",
-            "alt": "Kit Embaixador Na'kau"
-          }
-        ]
-      },
-      "nova-team": {
-        "title": "Quatro compromissos que sustentam a Na'kau",
-        "description": "Trabalhamos diretamente com quem vive e protege a Amazônia, mantendo a floresta em pé e valorizando saberes ancestrais.",
-        "rolesLabel": "Compromissos",
-        "members": [
-          {
-            "name": "Sociobioeconomia Real",
-            "role": "Florestas Protegidas",
-            "bio": "Cadeias produtivas que mantêm a floresta em pé e remuneram com justiça os povos e comunidades tradicionais.",
-            "initials": "SB",
-            "skills": ["Renda Justa", "Cacau Nativo", "Zero Desmatamento"]
-          },
-          {
-            "name": "Identidade Territorial",
-            "role": "Cultura & Saberes",
-            "bio": "Cada presente carrega a história, a cultura e a assinatura dos territórios amazônicos onde nasce.",
-            "initials": "IT",
-            "skills": ["Cupuaçu", "Castanha do Pará", "Comunidades"]
-          },
-          {
-            "name": "Impacto Mensurável",
-            "role": "Comunicação ESG",
-            "bio": "Geração de renda, valorização de cadeias sustentáveis e indicadores reais para o relatório institucional da sua marca.",
-            "initials": "ESG",
-            "skills": ["Relatório ESG", "Rastreabilidade", "Transparência"]
-          }
-        ]
-      },
-      "faq3": {
-        "title": "Perguntas frequentes",
-        "description": "Tudo que sua equipe precisa saber sobre personalização, prazos, volumetria e logística dos kits Na'kau.",
-        "tagline": "FAQ",
-        "items": [
-          {
-            "q": "Qual é a quantidade mínima por pedido institucional?",
-            "a": "O pedido mínimo padrão é de 50 unidades por modelo de kit, viabilizando a produção artesanal e a personalização completa das embalagens."
-          },
-          {
-            "q": "Como funciona a personalização com a marca da nossa empresa?",
-            "a": "Personalizamos a carta institucional interna com a sua mensagem, aplicamos fitas ou tags na identidade visual da sua marca e ajustamos detalhes conforme sua diretriz institucional."
-          },
-          {
-            "q": "Qual é o prazo médio de produção e entrega?",
-            "a": "Geralmente de 15 a 25 dias úteis a partir da aprovação do briefing e do layout final da personalização, variando conforme a volumetria e cidade de entrega."
-          },
-          {
-            "q": "Os kits atendem aos critérios de comunicação ESG da empresa?",
-            "a": "Sim! Cada kit é acompanhado por dados de rastreabilidade, número de produtores e comunidades beneficiadas e garantia de cadeia livre de desmatamento para o seu relatório de sustentabilidade."
-          },
-          {
-            "q": "A entrega é realizada para todo o Brasil?",
-            "a": "Sim. Realizamos envio logístico protegido para todo o território nacional, com embalagens especiais que preservam a integridade e textura do chocolate amazônico."
-          }
-        ]
-      },
-      "testimonial-v2": {
-        "title": "Mais que brinde. Um ativo institucional.",
-        "description": "Manifesto da parceria entre marcas conscientes e o território amazônico.",
-        "avatarAltPrefix": "Na'kau",
-        "items": [
-          {
-            "quote": "Mais do que oferecer produtos institucionais, construímos parcerias capazes de gerar impacto social e transformar ações corporativas em iniciativas alinhadas às agendas contemporâneas de ESG.",
-            "author": "Na'kau Amazônia",
-            "initials": "NK",
-            "role": "Curadoria Institucional",
-            "avatar": "https://i.pravatar.cc/150?u=nakau-amazonia"
-          },
-          {
-            "quote": "Seu presente institucional pode gerar mais do que lembrança — pode gerar pertencimento e orgulho de fazer parte da preservação da floresta.",
-            "author": "Comunidades Parceiras",
-            "initials": "CP",
-            "role": "Produtores da Amazônia",
-            "avatar": "https://i.pravatar.cc/150?u=produtores-amazonia"
-          }
-        ]
-      }
-    },
-    "footer": {
-      "eyebrow": "Na'kau Amazônia",
-      "heading": "Transforme seus brindes em experiências com propósito",
-      "description": "Fale com a nossa equipe de curadoria corporativa e monte uma proposta sob medida para sua marca.",
-      "primaryLabel": "Solicitar proposta corporativa",
-      "primaryHref": "#kontakt",
-      "secondaryLabel": "Conhecer todos os kits",
-      "secondaryHref": "#realizacje",
-      "legalLinks": [
-        { "label": "Privacidade", "href": "/polityka-prywatnosci/" },
-        { "label": "Termos e Condições", "href": "/cookies/" }
-      ],
-      "footerLinks": [
-        { "label": "Kits", "href": "#realizacje" },
-        { "label": "Proposta", "href": "#uslugi" },
-        { "label": "Impacto ESG", "href": "#zespol" },
-        { "label": "FAQ", "href": "#faq" }
-      ],
-      "ariaLegal": "Documentos legais",
-      "ariaNavigation": "Navegação do rodapé",
-      "copyright": "© 2026 Na'kau Amazônia. Todos os direitos reservados.",
-      "attributionPrefix": "Na'kau Amazônia — ",
-      "attributionLinkLabel": "Sociobioeconomia & Impacto",
-      "attributionLinkHref": "https://nakau.com.br"
-    }
-  }
+    "pl":  {
+               "page":  {
+                            "title":  "Na\u0027kau Amazônia — Brindes Corporativos com Propósito Amazônico",
+                            "description":  "Brindes corporativos premium conectados à sociobioeconomia amazônica, ESG e impacto positivo. Fortaleça reputação institucional com kits artesanais Na\u0027kau.",
+                            "heading":  "Brindes corporativos que se tornam experiências com propósito"
+                        },
+               "demoBanner":  {
+                                  "label":  "Na\u0027kau Amazônia — Experiências corporativas com propósito e sustentabilidade.",
+                                  "downloadLabel":  "Conhecer os kits",
+                                  "downloadHref":  "#realizacje",
+                                  "customizeLabel":  "Solicitar proposta corporativa",
+                                  "customizeHref":  "#kontakt"
+                              },
+               "navigation":  {
+                                  "menu":  [
+                                               {
+                                                   "label":  "Kits",
+                                                   "href":  "#realizacje"
+                                               },
+                                               {
+                                                   "label":  "Proposta \u0026 Solução",
+                                                   "href":  "#uslugi"
+                                               },
+                                               {
+                                                   "label":  "Impacto \u0026 ESG",
+                                                   "href":  "#zespol"
+                                               },
+                                               {
+                                                   "label":  "FAQ",
+                                                   "href":  "#faq"
+                                               }
+                                           ],
+                                  "cta":  {
+                                              "label":  "Solicitar proposta",
+                                              "hoverLabel":  "Falar com a curadoria",
+                                              "href":  "#kontakt"
+                                          },
+                                  "aria":  {
+                                               "menuOpen":  "Abrir menu de navegação",
+                                               "menuClose":  "Fechar menu",
+                                               "menuExpand":  "Expandir submenu",
+                                               "navMain":  "Navegação principal",
+                                               "drawer":  "Menu de navegação"
+                                           },
+                                  "languageLabel":  "Idioma"
+                              },
+               "sections":  {
+                                "nova-hero-wireframe":  {
+                                                            "eyebrow":  "ESG • SOCIOBIOECONOMIA • AMAZÔNIA LEGÍTIMA",
+                                                            "heading":  "Brindes corporativos que se tornam",
+                                                            "headingAccent":  "experiências com propósito.",
+                                                            "description":  "Kits artesanais nascidos no coração da Amazônia. Cada presente Na\u0027kau fortalece reputação institucional, comunicação ESG e os relacionamentos mais estratégicos da sua marca.",
+                                                            "primaryCTA":  {
+                                                                               "label":  "Solicitar proposta corporativa",
+                                                                               "href":  "#kontakt"
+                                                                           },
+                                                            "secondaryCTA":  {
+                                                                                 "label":  "Conhecer os kits",
+                                                                                 "href":  "#realizacje"
+                                                                             },
+                                                            "trustedBy":  "",
+                                                            "trustItems":  [
+
+                                                                           ],
+                                                            "image":  "/assets/images/t001-nova/nakau-hero.jpg",
+                                                            "imageAlt":  "Chocolate Na\u0027kau Amazônico com foto da produtora parceira Sra. Dinorath Figueiredo",
+                                                            "stats":  [
+                                                                          {
+                                                                              "value":  "+120",
+                                                                              "label":  "Produtores fortalecidos"
+                                                                          },
+                                                                          {
+                                                                              "value":  "+40",
+                                                                              "label":  "Comunidades beneficiadas"
+                                                                          },
+                                                                          {
+                                                                              "value":  "100%",
+                                                                              "label":  "Amazônia rastreável"
+                                                                          },
+                                                                          {
+                                                                              "value":  "0",
+                                                                              "label":  "Desmatamento na cadeia"
+                                                                          }
+                                                                      ]
+                                                        },
+                                "nova-services":  {
+                                                      "title":  "A ponte entre empresas, território amazônico e impacto positivo",
+                                                      "description":  "Criamos kits institucionais artesanais que carregam a Amazônia legítima — feitos com cacau nativo, cadeias rastreáveis e o trabalho de produtores parceiros. Narrativa pronta para sua comunicação ESG.",
+                                                      "linkLabel":  "Conhecer nossa curadoria",
+                                                      "linkHref":  "#kontakt",
+                                                      "items":  [
+                                                                    {
+                                                                        "number":  "01.",
+                                                                        "icon":  "map-pin",
+                                                                        "title":  "Origem amazônica",
+                                                                        "description":  "Cacau nativo, cupuaçu, castanha do Pará e café — direto dos territórios produtores com rastreabilidade total."
+                                                                    },
+                                                                    {
+                                                                        "number":  "02.",
+                                                                        "icon":  "users",
+                                                                        "title":  "Produção artesanal",
+                                                                        "description":  "Feito por mãos amazônicas, com saberes tradicionais e cuidado em cada etapa da colheita e manufatura."
+                                                                    },
+                                                                    {
+                                                                        "number":  "03.",
+                                                                        "icon":  "medal",
+                                                                        "title":  "Padrão premium",
+                                                                        "description":  "Embalagens de alta qualidade, carta institucional personalizada e curadoria estética refinada para o mundo corporativo."
+                                                                    },
+                                                                    {
+                                                                        "number":  "04.",
+                                                                        "icon":  "shield",
+                                                                        "title":  "ESG legítimo",
+                                                                        "description":  "Geração de renda direta em territórios amazônicos, valorização da sociobioeconomia e indicadores de impacto concretos."
+                                                                    }
+                                                                ]
+                                                  },
+                                "nova-projects":  {
+                                                      "title":  "Coleção de Kits Na\u0027kau Amazônia",
+                                                      "description":  "Quatro experiências. Um mesmo propósito amazônico. Kits curados para cada momento institucional — do gesto memorável em escala ao presente exclusivo para lideranças.",
+                                                      "linkLabel":  "Solicitar proposta corporativa",
+                                                      "linkHref":  "#kontakt",
+                                                      "items":  [
+                                                                    {
+                                                                        "category":  "Ações em Escala • R$ 25 / un (mín. 50 un)",
+                                                                        "title":  "Kit 01: Kit Essência — 1 barra cupulate, caixa com palha e carta personalizada",
+                                                                        "image":  "/assets/images/t001-nova/t001-nova-project-laptop.webp",
+                                                                        "alt":  "Kit Essência Na\u0027kau"
+                                                                    },
+                                                                    {
+                                                                        "category":  "Equilíbrio \u0026 Presença • R$ 45 / un (mín. 50 un)",
+                                                                        "title":  "Kit 02: Kit Encontro — 1 barra cupulate, 1 barra chocopulate e carta premium",
+                                                                        "image":  "/assets/images/t001-nova/t001-nova-project-building.webp",
+                                                                        "alt":  "Kit Encontro Na\u0027kau"
+                                                                    },
+                                                                    {
+                                                                        "category":  "Mais Escolhido / C-Level • R$ 75 / un (mín. 50 un)",
+                                                                        "title":  "Kit 03: Kit Sabores da Floresta — Barra cupulate 40g, jujuba de cupuaçu, 10 mini-barras e caixa premium",
+                                                                        "image":  "/assets/images/t001-nova/t001-nova-project-laptop.webp",
+                                                                        "alt":  "Kit Sabores da Floresta Na\u0027kau"
+                                                                    },
+                                                                    {
+                                                                        "category":  "Alto Impacto / Liderança • R$ 220 / un (mín. 50 un)",
+                                                                        "title":  "Kit 04: Kit Embaixador — Jornada completa com barras 40g e 80g, jujuba, crocantinho e café amazônico",
+                                                                        "image":  "/assets/images/t001-nova/t001-nova-project-building.webp",
+                                                                        "alt":  "Kit Embaixador Na\u0027kau"
+                                                                    }
+                                                                ]
+                                                  },
+                                "nova-team":  {
+                                                  "title":  "Quatro compromissos que sustentam a Na\u0027kau",
+                                                  "description":  "Trabalhamos diretamente com quem vive e protege a Amazônia, mantendo a floresta em pé e valorizando saberes ancestrais.",
+                                                  "rolesLabel":  "Compromissos",
+                                                  "members":  [
+                                                                  {
+                                                                      "name":  "Sociobioeconomia Real",
+                                                                      "role":  "Florestas Protegidas",
+                                                                      "bio":  "Cadeias produtivas que mantêm a floresta em pé e remuneram com justiça os povos e comunidades tradicionais.",
+                                                                      "initials":  "SB",
+                                                                      "skills":  [
+                                                                                     "Renda Justa",
+                                                                                     "Cacau Nativo",
+                                                                                     "Zero Desmatamento"
+                                                                                 ]
+                                                                  },
+                                                                  {
+                                                                      "name":  "Identidade Territorial",
+                                                                      "role":  "Cultura \u0026 Saberes",
+                                                                      "bio":  "Cada presente carrega a história, a cultura e a assinatura dos territórios amazônicos onde nasce.",
+                                                                      "initials":  "IT",
+                                                                      "skills":  [
+                                                                                     "Cupuaçu",
+                                                                                     "Castanha do Pará",
+                                                                                     "Comunidades"
+                                                                                 ]
+                                                                  },
+                                                                  {
+                                                                      "name":  "Impacto Mensurável",
+                                                                      "role":  "Comunicação ESG",
+                                                                      "bio":  "Geração de renda, valorização de cadeias sustentáveis e indicadores reais para o relatório institucional da sua marca.",
+                                                                      "initials":  "ESG",
+                                                                      "skills":  [
+                                                                                     "Relatório ESG",
+                                                                                     "Rastreabilidade",
+                                                                                     "Transparência"
+                                                                                 ]
+                                                                  }
+                                                              ]
+                                              },
+                                "faq3":  {
+                                             "title":  "Perguntas frequentes",
+                                             "description":  "Tudo que sua equipe precisa saber sobre personalização, prazos, volumetria e logística dos kits Na\u0027kau.",
+                                             "tagline":  "FAQ",
+                                             "items":  [
+                                                           {
+                                                               "q":  "Qual é a quantidade mínima por pedido institucional?",
+                                                               "a":  "O pedido mínimo padrão é de 50 unidades por modelo de kit, viabilizando a produção artesanal e a personalização completa das embalagens."
+                                                           },
+                                                           {
+                                                               "q":  "Como funciona a personalização com a marca da nossa empresa?",
+                                                               "a":  "Personalizamos a carta institucional interna com a sua mensagem, aplicamos fitas ou tags na identidade visual da sua marca e ajustamos detalhes conforme sua diretriz institucional."
+                                                           },
+                                                           {
+                                                               "q":  "Qual é o prazo médio de produção e entrega?",
+                                                               "a":  "Geralmente de 15 a 25 dias úteis a partir da aprovação do briefing e do layout final da personalização, variando conforme a volumetria e cidade de entrega."
+                                                           },
+                                                           {
+                                                               "q":  "Os kits atendem aos critérios de comunicação ESG da empresa?",
+                                                               "a":  "Sim! Cada kit é acompanhado por dados de rastreabilidade, número de produtores e comunidades beneficiadas e garantia de cadeia livre de desmatamento para o seu relatório de sustentabilidade."
+                                                           },
+                                                           {
+                                                               "q":  "A entrega é realizada para todo o Brasil?",
+                                                               "a":  "Sim. Realizamos envio logístico protegido para todo o território nacional, com embalagens especiais que preservam a integridade e textura do chocolate amazônico."
+                                                           }
+                                                       ]
+                                         },
+                                "testimonial-v2":  {
+                                                       "title":  "Mais que brinde. Um ativo institucional.",
+                                                       "description":  "Manifesto da parceria entre marcas conscientes e o território amazônico.",
+                                                       "avatarAltPrefix":  "Na\u0027kau",
+                                                       "items":  [
+                                                                     {
+                                                                         "quote":  "Mais do que oferecer produtos institucionais, construímos parcerias capazes de gerar impacto social e transformar ações corporativas em iniciativas alinhadas às agendas contemporâneas de ESG.",
+                                                                         "author":  "Na\u0027kau Amazônia",
+                                                                         "initials":  "NK",
+                                                                         "role":  "Curadoria Institucional",
+                                                                         "avatar":  "https://i.pravatar.cc/150?u=nakau-amazonia"
+                                                                     },
+                                                                     {
+                                                                         "quote":  "Seu presente institucional pode gerar mais do que lembrança — pode gerar pertencimento e orgulho de fazer parte da preservação da floresta.",
+                                                                         "author":  "Comunidades Parceiras",
+                                                                         "initials":  "CP",
+                                                                         "role":  "Produtores da Amazônia",
+                                                                         "avatar":  "https://i.pravatar.cc/150?u=produtores-amazonia"
+                                                                     }
+                                                                 ]
+                                                   }
+                            },
+               "footer":  {
+                              "eyebrow":  "Na\u0027kau Amazônia",
+                              "heading":  "Transforme seus brindes em experiências com propósito",
+                              "description":  "Fale com a nossa equipe de curadoria corporativa e monte uma proposta sob medida para sua marca.",
+                              "primaryLabel":  "Solicitar proposta corporativa",
+                              "primaryHref":  "#kontakt",
+                              "secondaryLabel":  "Conhecer todos os kits",
+                              "secondaryHref":  "#realizacje",
+                              "legalLinks":  [
+                                                 {
+                                                     "label":  "Privacidade",
+                                                     "href":  "/polityka-prywatnosci/"
+                                                 },
+                                                 {
+                                                     "label":  "Termos e Condições",
+                                                     "href":  "/cookies/"
+                                                 }
+                                             ],
+                              "footerLinks":  [
+                                                  {
+                                                      "label":  "Kits",
+                                                      "href":  "#realizacje"
+                                                  },
+                                                  {
+                                                      "label":  "Proposta",
+                                                      "href":  "#uslugi"
+                                                  },
+                                                  {
+                                                      "label":  "Impacto ESG",
+                                                      "href":  "#zespol"
+                                                  },
+                                                  {
+                                                      "label":  "FAQ",
+                                                      "href":  "#faq"
+                                                  }
+                                              ],
+                              "ariaLegal":  "Documentos legais",
+                              "ariaNavigation":  "Navegação do rodapé",
+                              "copyright":  "© 2026 Na\u0027kau Amazônia. Todos os direitos reservados.",
+                              "attributionPrefix":  "Na\u0027kau Amazônia — ",
+                              "attributionLinkLabel":  "Sociobioeconomia \u0026 Impacto",
+                              "attributionLinkHref":  "https://nakau.com.br"
+                          }
+           },
+    "en":  {
+               "page":  {
+                            "title":  "Na\u0027kau Amazônia — Brindes Corporativos com Propósito Amazônico",
+                            "description":  "Brindes corporativos premium conectados à sociobioeconomia amazônica, ESG e impacto positivo. Fortaleça reputação institucional com kits artesanais Na\u0027kau.",
+                            "heading":  "Brindes corporativos que se tornam experiências com propósito"
+                        },
+               "demoBanner":  {
+                                  "label":  "Na\u0027kau Amazônia — Experiências corporativas com propósito e sustentabilidade.",
+                                  "downloadLabel":  "Conhecer os kits",
+                                  "downloadHref":  "#realizacje",
+                                  "customizeLabel":  "Solicitar proposta corporativa",
+                                  "customizeHref":  "#kontakt"
+                              },
+               "navigation":  {
+                                  "menu":  [
+                                               {
+                                                   "label":  "Kits",
+                                                   "href":  "#realizacje"
+                                               },
+                                               {
+                                                   "label":  "Proposta \u0026 Solução",
+                                                   "href":  "#uslugi"
+                                               },
+                                               {
+                                                   "label":  "Impacto \u0026 ESG",
+                                                   "href":  "#zespol"
+                                               },
+                                               {
+                                                   "label":  "FAQ",
+                                                   "href":  "#faq"
+                                               }
+                                           ],
+                                  "cta":  {
+                                              "label":  "Solicitar proposta",
+                                              "hoverLabel":  "Falar com a curadoria",
+                                              "href":  "#kontakt"
+                                          },
+                                  "aria":  {
+                                               "menuOpen":  "Abrir menu de navegação",
+                                               "menuClose":  "Fechar menu",
+                                               "menuExpand":  "Expandir submenu",
+                                               "navMain":  "Navegação principal",
+                                               "drawer":  "Menu de navegação"
+                                           },
+                                  "languageLabel":  "Language"
+                              },
+               "sections":  {
+                                "nova-hero-wireframe":  {
+                                                            "eyebrow":  "ESG • SOCIOBIOECONOMIA • AMAZÔNIA LEGÍTIMA",
+                                                            "heading":  "Brindes corporativos que se tornam",
+                                                            "headingAccent":  "experiências com propósito.",
+                                                            "description":  "Kits artesanais nascidos no coração da Amazônia. Cada presente Na\u0027kau fortalece reputação institucional, comunicação ESG e os relacionamentos mais estratégicos da sua marca.",
+                                                            "primaryCTA":  {
+                                                                               "label":  "Solicitar proposta corporativa",
+                                                                               "href":  "#kontakt"
+                                                                           },
+                                                            "secondaryCTA":  {
+                                                                                 "label":  "Conhecer os kits",
+                                                                                 "href":  "#realizacje"
+                                                                             },
+                                                            "trustedBy":  "",
+                                                            "trustItems":  [
+
+                                                                           ],
+                                                            "image":  "/assets/images/t001-nova/nakau-hero.jpg",
+                                                            "imageAlt":  "Chocolate Na\u0027kau Amazônico com foto da produtora parceira Sra. Dinorath Figueiredo",
+                                                            "stats":  [
+                                                                          {
+                                                                              "value":  "+120",
+                                                                              "label":  "Produtores fortalecidos"
+                                                                          },
+                                                                          {
+                                                                              "value":  "+40",
+                                                                              "label":  "Comunidades beneficiadas"
+                                                                          },
+                                                                          {
+                                                                              "value":  "100%",
+                                                                              "label":  "Amazônia rastreável"
+                                                                          },
+                                                                          {
+                                                                              "value":  "0",
+                                                                              "label":  "Desmatamento na cadeia"
+                                                                          }
+                                                                      ]
+                                                        },
+                                "nova-services":  {
+                                                      "title":  "A ponte entre empresas, território amazônico e impacto positivo",
+                                                      "description":  "Criamos kits institucionais artesanais que carregam a Amazônia legítima — feitos com cacau nativo, cadeias rastreáveis e o trabalho de produtores parceiros. Narrativa pronta para sua comunicação ESG.",
+                                                      "linkLabel":  "Conhecer nossa curadoria",
+                                                      "linkHref":  "#kontakt",
+                                                      "items":  [
+                                                                    {
+                                                                        "number":  "01.",
+                                                                        "icon":  "map-pin",
+                                                                        "title":  "Origem amazônica",
+                                                                        "description":  "Cacau nativo, cupuaçu, castanha do Pará e café — direto dos territórios produtores com rastreabilidade total."
+                                                                    },
+                                                                    {
+                                                                        "number":  "02.",
+                                                                        "icon":  "users",
+                                                                        "title":  "Produção artesanal",
+                                                                        "description":  "Feito por mãos amazônicas, com saberes tradicionais e cuidado em cada etapa da colheita e manufatura."
+                                                                    },
+                                                                    {
+                                                                        "number":  "03.",
+                                                                        "icon":  "medal",
+                                                                        "title":  "Padrão premium",
+                                                                        "description":  "Embalagens de alta qualidade, carta institucional personalizada e curadoria estética refinada para o mundo corporativo."
+                                                                    },
+                                                                    {
+                                                                        "number":  "04.",
+                                                                        "icon":  "shield",
+                                                                        "title":  "ESG legítimo",
+                                                                        "description":  "Geração de renda direta em territórios amazônicos, valorização da sociobioeconomia e indicadores de impacto concretos."
+                                                                    }
+                                                                ]
+                                                  },
+                                "nova-projects":  {
+                                                      "title":  "Coleção de Kits Na\u0027kau Amazônia",
+                                                      "description":  "Quatro experiências. Um mesmo propósito amazônico. Kits curados para cada momento institucional — do gesto memorável em escala ao presente exclusivo para lideranças.",
+                                                      "linkLabel":  "Solicitar proposta corporativa",
+                                                      "linkHref":  "#kontakt",
+                                                      "items":  [
+                                                                    {
+                                                                        "category":  "Ações em Escala • R$ 25 / un (mín. 50 un)",
+                                                                        "title":  "Kit 01: Kit Essência — 1 barra cupulate, caixa com palha e carta personalizada",
+                                                                        "image":  "/assets/images/t001-nova/t001-nova-project-laptop.webp",
+                                                                        "alt":  "Kit Essência Na\u0027kau"
+                                                                    },
+                                                                    {
+                                                                        "category":  "Equilíbrio \u0026 Presença • R$ 45 / un (mín. 50 un)",
+                                                                        "title":  "Kit 02: Kit Encontro — 1 barra cupulate, 1 barra chocopulate e carta premium",
+                                                                        "image":  "/assets/images/t001-nova/t001-nova-project-building.webp",
+                                                                        "alt":  "Kit Encontro Na\u0027kau"
+                                                                    },
+                                                                    {
+                                                                        "category":  "Mais Escolhido / C-Level • R$ 75 / un (mín. 50 un)",
+                                                                        "title":  "Kit 03: Kit Sabores da Floresta — Barra cupulate 40g, jujuba de cupuaçu, 10 mini-barras e caixa premium",
+                                                                        "image":  "/assets/images/t001-nova/t001-nova-project-laptop.webp",
+                                                                        "alt":  "Kit Sabores da Floresta Na\u0027kau"
+                                                                    },
+                                                                    {
+                                                                        "category":  "Alto Impacto / Liderança • R$ 220 / un (mín. 50 un)",
+                                                                        "title":  "Kit 04: Kit Embaixador — Jornada completa com barras 40g e 80g, jujuba, crocantinho e café amazônico",
+                                                                        "image":  "/assets/images/t001-nova/t001-nova-project-building.webp",
+                                                                        "alt":  "Kit Embaixador Na\u0027kau"
+                                                                    }
+                                                                ]
+                                                  },
+                                "nova-team":  {
+                                                  "title":  "Quatro compromissos que sustentam a Na\u0027kau",
+                                                  "description":  "Trabalhamos diretamente com quem vive e protege a Amazônia, mantendo a floresta em pé e valorizando saberes ancestrais.",
+                                                  "rolesLabel":  "Compromissos",
+                                                  "members":  [
+                                                                  {
+                                                                      "name":  "Sociobioeconomia Real",
+                                                                      "role":  "Florestas Protegidas",
+                                                                      "bio":  "Cadeias produtivas que mantêm a floresta em pé e remuneram com justiça os povos e comunidades tradicionais.",
+                                                                      "initials":  "SB",
+                                                                      "skills":  [
+                                                                                     "Renda Justa",
+                                                                                     "Cacau Nativo",
+                                                                                     "Zero Desmatamento"
+                                                                                 ]
+                                                                  },
+                                                                  {
+                                                                      "name":  "Identidade Territorial",
+                                                                      "role":  "Cultura \u0026 Saberes",
+                                                                      "bio":  "Cada presente carrega a história, a cultura e a assinatura dos territórios amazônicos onde nasce.",
+                                                                      "initials":  "IT",
+                                                                      "skills":  [
+                                                                                     "Cupuaçu",
+                                                                                     "Castanha do Pará",
+                                                                                     "Comunidades"
+                                                                                 ]
+                                                                  },
+                                                                  {
+                                                                      "name":  "Impacto Mensurável",
+                                                                      "role":  "Comunicação ESG",
+                                                                      "bio":  "Geração de renda, valorização de cadeias sustentáveis e indicadores reais para o relatório institucional da sua marca.",
+                                                                      "initials":  "ESG",
+                                                                      "skills":  [
+                                                                                     "Relatório ESG",
+                                                                                     "Rastreabilidade",
+                                                                                     "Transparência"
+                                                                                 ]
+                                                                  }
+                                                              ]
+                                              },
+                                "faq3":  {
+                                             "title":  "Perguntas frequentes",
+                                             "description":  "Tudo que sua equipe precisa saber sobre personalização, prazos, volumetria e logística dos kits Na\u0027kau.",
+                                             "tagline":  "FAQ",
+                                             "items":  [
+                                                           {
+                                                               "q":  "Qual é a quantidade mínima por pedido institucional?",
+                                                               "a":  "O pedido mínimo padrão é de 50 unidades por modelo de kit, viabilizando a produção artesanal e a personalização completa das embalagens."
+                                                           },
+                                                           {
+                                                               "q":  "Como funciona a personalização com a marca da nossa empresa?",
+                                                               "a":  "Personalizamos a carta institucional interna com a sua mensagem, aplicamos fitas ou tags na identidade visual da sua marca e ajustamos detalhes conforme sua diretriz institucional."
+                                                           },
+                                                           {
+                                                               "q":  "Qual é o prazo médio de produção e entrega?",
+                                                               "a":  "Geralmente de 15 a 25 dias úteis a partir da aprovação do briefing e do layout final da personalização, variando conforme a volumetria e cidade de entrega."
+                                                           },
+                                                           {
+                                                               "q":  "Os kits atendem aos critérios de comunicação ESG da empresa?",
+                                                               "a":  "Sim! Cada kit é acompanhado por dados de rastreabilidade, número de produtores e comunidades beneficiadas e garantia de cadeia livre de desmatamento para o seu relatório de sustentabilidade."
+                                                           },
+                                                           {
+                                                               "q":  "A entrega é realizada para todo o Brasil?",
+                                                               "a":  "Sim. Realizamos envio logístico protegido para todo o território nacional, com embalagens especiais que preservam a integridade e textura do chocolate amazônico."
+                                                           }
+                                                       ]
+                                         },
+                                "testimonial-v2":  {
+                                                       "title":  "Mais que brinde. Um ativo institucional.",
+                                                       "description":  "Manifesto da parceria entre marcas conscientes e o território amazônico.",
+                                                       "avatarAltPrefix":  "Na\u0027kau",
+                                                       "items":  [
+                                                                     {
+                                                                         "quote":  "Mais do que oferecer produtos institucionais, construímos parcerias capazes de gerar impacto social e transformar ações corporativas em iniciativas alinhadas às agendas contemporâneas de ESG.",
+                                                                         "author":  "Na\u0027kau Amazônia",
+                                                                         "initials":  "NK",
+                                                                         "role":  "Curadoria Institucional",
+                                                                         "avatar":  "https://i.pravatar.cc/150?u=nakau-amazonia"
+                                                                     },
+                                                                     {
+                                                                         "quote":  "Seu presente institucional pode gerar mais do que lembrança — pode gerar pertencimento e orgulho de fazer parte da preservação da floresta.",
+                                                                         "author":  "Comunidades Parceiras",
+                                                                         "initials":  "CP",
+                                                                         "role":  "Produtores da Amazônia",
+                                                                         "avatar":  "https://i.pravatar.cc/150?u=produtores-amazonia"
+                                                                     }
+                                                                 ]
+                                                   }
+                            },
+               "footer":  {
+                              "eyebrow":  "Na\u0027kau Amazônia",
+                              "heading":  "Transforme seus brindes em experiências com propósito",
+                              "description":  "Fale com a nossa equipe de curadoria corporativa e monte uma proposta sob medida para sua marca.",
+                              "primaryLabel":  "Solicitar proposta corporativa",
+                              "primaryHref":  "#kontakt",
+                              "secondaryLabel":  "Conhecer todos os kits",
+                              "secondaryHref":  "#realizacje",
+                              "legalLinks":  [
+                                                 {
+                                                     "label":  "Privacidade",
+                                                     "href":  "/polityka-prywatnosci/"
+                                                 },
+                                                 {
+                                                     "label":  "Termos e Condições",
+                                                     "href":  "/cookies/"
+                                                 }
+                                             ],
+                              "footerLinks":  [
+                                                  {
+                                                      "label":  "Kits",
+                                                      "href":  "#realizacje"
+                                                  },
+                                                  {
+                                                      "label":  "Proposta",
+                                                      "href":  "#uslugi"
+                                                  },
+                                                  {
+                                                      "label":  "Impacto ESG",
+                                                      "href":  "#zespol"
+                                                  },
+                                                  {
+                                                      "label":  "FAQ",
+                                                      "href":  "#faq"
+                                                  }
+                                              ],
+                              "ariaLegal":  "Documentos legais",
+                              "ariaNavigation":  "Navegação do rodapé",
+                              "copyright":  "© 2026 Na\u0027kau Amazônia. Todos os direitos reservados.",
+                              "attributionPrefix":  "Na\u0027kau Amazônia — ",
+                              "attributionLinkLabel":  "Sociobioeconomia \u0026 Impacto",
+                              "attributionLinkHref":  "https://nakau.com.br"
+                          }
+           }
 }

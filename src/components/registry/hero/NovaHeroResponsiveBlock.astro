@@ -1,4 +1,4 @@
----
+﻿---
 import Section from "@components/ui/layout/Section.astro";
 import Container from "@components/ui/layout/Container.astro";
 import Heading from "@components/ui/atoms/Heading.astro";
@@ -39,6 +39,7 @@ const trustItems = props.trustItems ?? fallback?.trustItems ?? [];
 const image = props.image ?? fallback?.image;
 const imageAlt = props.imageAlt ?? fallback?.imageAlt ?? "";
 const stats = props.stats ?? fallback?.stats ?? [];
+const hasTrust = Boolean(trustedBy || (trustItems && trustItems.length > 0));
 ---
 
 <Section
@@ -53,7 +54,7 @@ const stats = props.stats ?? fallback?.stats ?? [];
     <div class="relative overflow-hidden rounded-t-xl bg-surface">
       <div class="grid min-w-0 grid-cols-1 md:grid-cols-[minmax(0,1.05fr)_minmax(0,0.95fr)] lg:grid-cols-2">
         <div class="flex min-w-0 flex-col justify-start px-[clamp(1.25rem,5vw,5rem)] pb-[clamp(3rem,9vw,6rem)] pt-[clamp(3rem,7vw,5rem)] md:min-h-[34rem] md:px-[clamp(1.5rem,4vw,3.5rem)] md:pb-8 md:pt-10 lg:grid lg:grid-rows-[1fr_auto] lg:px-[clamp(1.5rem,5vw,5rem)] lg:pb-[clamp(2rem,3vw,3rem)] lg:pt-[clamp(4rem,5vw,5rem)]">
-          <div class="flex min-w-0 flex-col justify-start gap-[clamp(1.25rem,4vw,2rem)] md:justify-center md:gap-5 lg:-translate-y-6 lg:gap-[clamp(1.25rem,2vw,2rem)]" data-motion-sequence="fade">
+          <div class:list={["flex min-w-0 flex-col justify-start gap-[clamp(1.25rem,4vw,2rem)] md:justify-center md:gap-5 lg:gap-[clamp(1.25rem,2vw,2rem)]", hasTrust && "lg:-translate-y-6"]} data-motion-sequence="fade">
             <Text tag="p" variant="accent-label" class="font-sans font-semibold tracking-[0.18em] md:text-[0.72rem] lg:text-[clamp(0.75rem,0.85vw,0.95rem)]">{eyebrow}</Text>
             <Heading tag="h1" variant="hero" class="max-w-[42rem] font-bold leading-[0.96] tracking-[-0.065em] text-[clamp(2.5rem,10vw,3.75rem)] md:max-w-[42rem] md:text-[clamp(3rem,4.4vw,4.75rem)] lg:text-[clamp(3rem,4.4vw,4.75rem)]">
               {heading}{' '}<span class="text-brand-accent">{headingAccent}</span>
@@ -64,20 +65,22 @@ const stats = props.stats ?? fallback?.stats ?? [];
               {secondaryCTA && <Button href={secondaryCTA.href} variant="outline" size="lg" class="min-h-11 w-full font-semibold tracking-normal sm:w-auto md:text-[clamp(1rem,1.15vw,1.2rem)]">{secondaryCTA.label}</Button>}
             </div>
           </div>
-          <div class="grid grid-cols-3 items-center gap-x-3 gap-y-4 pt-6 text-[color-mix(in_oklab,var(--color-on-surface)_40%,var(--color-surface))] md:gap-x-2 md:pt-6 lg:flex lg:w-full lg:flex-nowrap lg:justify-between lg:gap-x-4 lg:gap-y-3 lg:pt-4" data-motion="fade" style="--motion-delay: 480ms">
-            <Text tag="span" variant="feature-body-sm" class="text-[0.68rem] font-medium tracking-[0.06em] opacity-[0.78] md:text-[0.72rem] lg:text-[clamp(0.8rem,0.9vw,1rem)]">{trustedBy}</Text>
-            {trustItems.map((item, index) => (
-              <Text
-                tag="span"
-                variant="feature-body-sm"
-                class:list={[
-                  "font-heading text-[0.78rem] font-semibold tracking-[0.04em] opacity-[0.72] md:text-[0.88rem] lg:text-[clamp(1rem,1.1vw,1.15rem)]",
-                  index === 1 && "tracking-[0.12em]",
-                  index === 3 && "tracking-[0.08em]",
-                ]}
-              >{item}</Text>
-            ))}
-          </div>
+          {hasTrust && (
+            <div class="grid grid-cols-3 items-center gap-x-3 gap-y-4 pt-6 text-[color-mix(in_oklab,var(--color-on-surface)_40%,var(--color-surface))] md:gap-x-2 md:pt-6 lg:flex lg:w-full lg:flex-nowrap lg:justify-between lg:gap-x-4 lg:gap-y-3 lg:pt-4" data-motion="fade" style="--motion-delay: 480ms">
+              {trustedBy && <Text tag="span" variant="feature-body-sm" class="text-[0.68rem] font-medium tracking-[0.06em] opacity-[0.78] md:text-[0.72rem] lg:text-[clamp(0.8rem,0.9vw,1rem)]">{trustedBy}</Text>}
+              {trustItems.map((item, index) => (
+                <Text
+                  tag="span"
+                  variant="feature-body-sm"
+                  class:list={[
+                    "font-heading text-[0.78rem] font-semibold tracking-[0.04em] opacity-[0.72] md:text-[0.88rem] lg:text-[clamp(1rem,1.1vw,1.15rem)]",
+                    index === 1 && "tracking-[0.12em]",
+                    index === 3 && "tracking-[0.08em]",
+                  ]}
+                >{item}</Text>
+              ))}
+            </div>
+          )}
         </div>
 
         <div class="relative min-w-0 mb-4 h-[clamp(22rem,92vw,31rem)] md:mb-0 md:h-[clamp(30rem,62vw,38rem)] md:pb-6 md:pr-6 lg:mb-[clamp(0.75rem,1vw,1rem)] lg:h-[clamp(36rem,45vw,48rem)] lg:pb-[clamp(1rem,2vw,2rem)] lg:pr-[clamp(1.25rem,3vw,3rem)]" data-motion="fade" style="--motion-delay: 120ms">
@@ -89,7 +92,7 @@ const stats = props.stats ?? fallback?.stats ?? [];
             </defs>
           </svg>
           <figure class="relative z-10 grid h-full min-w-0 place-items-center overflow-hidden [clip-path:url(#nova-responsive-photo-blob)] md:grid-rows-[minmax(0,1fr)] md:[&_picture]:block md:[&_picture]:h-full md:[&_picture]:min-h-0 md:[&_picture]:w-full md:[&_img]:w-full">
-            <SmartImage src={image} alt={imageAlt} width={900} height={1125} loading="eager" class="block h-full min-h-0 w-full object-cover object-center md:object-[center_35%] lg:object-cover" />
+            <SmartImage src={image} alt={imageAlt} width={1024} height={682} loading="eager" class="block h-full min-h-0 w-full object-cover object-center lg:object-cover" />
           </figure>
         </div>
       </div>

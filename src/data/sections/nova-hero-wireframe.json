@@ -1,18 +1,38 @@
-{
-  "eyebrow": "ESG • SOCIOBIOECONOMIA • AMAZÔNIA LEGÍTIMA",
-  "heading": "Brindes corporativos que se tornam",
-  "headingAccent": "experiências com propósito.",
-  "description": "Kits artesanais nascidos no coração da Amazônia. Cada presente Na'kau fortalece reputação institucional, comunicação ESG e os relacionamentos mais estratégicos da sua marca.",
-  "primaryCTA": { "label": "Solicitar proposta corporativa", "href": "#kontakt" },
-  "secondaryCTA": { "label": "Conhecer os kits", "href": "#realizacje" },
-  "trustedBy": "Insumos & Origem Rastreável",
-  "trustItems": ["CACAU NATIVO", "CUPUAÇU", "CASTANHA DO PARÁ", "CAFÉ AMAZÔNICO", "ORIGEM RASTREÁVEL", "ESG LEGÍTIMO"],
-  "image": "/assets/images/t001-nova/t001-nova-hero.webp",
-  "imageAlt": "Produtores da Amazônia parceiros da Na'kau",
-  "stats": [
-    { "value": "+120", "label": "Produtores fortalecidos" },
-    { "value": "+40", "label": "Comunidades beneficiadas" },
-    { "value": "100%", "label": "Amazônia rastreável" },
-    { "value": "0", "label": "Desmatamento na cadeia" }
-  ]
+﻿{
+    "eyebrow":  "ESG • SOCIOBIOECONOMIA • AMAZÔNIA LEGÍTIMA",
+    "heading":  "Brindes corporativos que se tornam",
+    "headingAccent":  "experiências com propósito.",
+    "description":  "Kits artesanais nascidos no coração da Amazônia. Cada presente Na\u0027kau fortalece reputação institucional, comunicação ESG e os relacionamentos mais estratégicos da sua marca.",
+    "primaryCTA":  {
+                       "label":  "Solicitar proposta corporativa",
+                       "href":  "#kontakt"
+                   },
+    "secondaryCTA":  {
+                         "label":  "Conhecer os kits",
+                         "href":  "#realizacje"
+                     },
+    "trustedBy":  "",
+    "trustItems":  [
+
+                   ],
+    "image":  "/assets/images/t001-nova/nakau-hero.jpg",
+    "imageAlt":  "Chocolate Na\u0027kau Amazônico com foto da produtora parceira Sra. Dinorath Figueiredo",
+    "stats":  [
+                  {
+                      "value":  "+120",
+                      "label":  "Produtores fortalecidos"
+                  },
+                  {
+                      "value":  "+40",
+                      "label":  "Comunidades beneficiadas"
+                  },
+                  {
+                      "value":  "100%",
+                      "label":  "Amazônia rastreável"
+                  },
+                  {
+                      "value":  "0",
+                      "label":  "Desmatamento na cadeia"
+                  }
+              ]
 }
