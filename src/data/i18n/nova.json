@@ -1,4 +1,4 @@
-{
+﻿{
   "pl": {
     "page": {
       "title": "Na'kau Amazônia — Brindes Corporativos com Propósito Amazônico",
@@ -58,10 +58,10 @@
         "linkLabel": "Conhecer nossa curadoria",
         "linkHref": "#kontakt",
         "items": [
-          { "number": "01.", "icon": "tree", "title": "Origem amazônica", "description": "Cacau nativo, cupuaçu, castanha do Pará e café — direto dos territórios produtores com rastreabilidade total." },
+          { "number": "01.", "icon": "map-pin", "title": "Origem amazônica", "description": "Cacau nativo, cupuaçu, castanha do Pará e café — direto dos territórios produtores com rastreabilidade total." },
           { "number": "02.", "icon": "users", "title": "Produção artesanal", "description": "Feito por mãos amazônicas, com saberes tradicionais e cuidado em cada etapa da colheita e manufatura." },
-          { "number": "03.", "icon": "award", "title": "Padrão premium", "description": "Embalagens de alta qualidade, carta institucional personalizada e curadoria estética refinada para o mundo corporativo." },
-          { "number": "04.", "icon": "leaf", "title": "ESG legítimo", "description": "Geração de renda direta em territórios amazônicos, valorização da sociobioeconomia e indicadores de impacto concretos." }
+          { "number": "03.", "icon": "medal", "title": "Padrão premium", "description": "Embalagens de alta qualidade, carta institucional personalizada e curadoria estética refinada para o mundo corporativo." },
+          { "number": "04.", "icon": "shield", "title": "ESG legítimo", "description": "Geração de renda direta em territórios amazônicos, valorização da sociobioeconomia e indicadores de impacto concretos." }
         ]
       },
       "nova-projects": {
@@ -258,10 +258,10 @@
         "linkLabel": "Conhecer nossa curadoria",
         "linkHref": "#kontakt",
         "items": [
-          { "number": "01.", "icon": "tree", "title": "Origem amazônica", "description": "Cacau nativo, cupuaçu, castanha do Pará e café — direto dos territórios produtores com rastreabilidade total." },
+          { "number": "01.", "icon": "map-pin", "title": "Origem amazônica", "description": "Cacau nativo, cupuaçu, castanha do Pará e café — direto dos territórios produtores com rastreabilidade total." },
           { "number": "02.", "icon": "users", "title": "Produção artesanal", "description": "Feito por mãos amazônicas, com saberes tradicionais e cuidado em cada etapa da colheita e manufatura." },
-          { "number": "03.", "icon": "award", "title": "Padrão premium", "description": "Embalagens de alta qualidade, carta institucional personalizada e curadoria estética refinada para o mundo corporativo." },
-          { "number": "04.", "icon": "leaf", "title": "ESG legítimo", "description": "Geração de renda direta em territórios amazônicos, valorização da sociobioeconomia e indicadores de impacto concretos." }
+          { "number": "03.", "icon": "medal", "title": "Padrão premium", "description": "Embalagens de alta qualidade, carta institucional personalizada e curadoria estética refinada para o mundo corporativo." },
+          { "number": "04.", "icon": "shield", "title": "ESG legítimo", "description": "Geração de renda direta em territórios amazônicos, valorização da sociobioeconomia e indicadores de impacto concretos." }
         ]
       },
       "nova-projects": {

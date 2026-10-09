@@ -1,11 +1,11 @@
 {
   "items": [
-    { "name": "Cacau Nativo", "icon": "sparkles", "initials": "CN" },
-    { "name": "Cupuaçu", "icon": "tree", "initials": "CP" },
-    { "name": "Castanha do Pará", "icon": "leaf", "initials": "CT" },
-    { "name": "Café Amazônico", "icon": "coffee", "initials": "CF" },
-    { "name": "Origem Rastreável", "icon": "shield-check", "initials": "OR" },
-    { "name": "ESG Legítimo", "icon": "award", "initials": "ESG" },
-    { "name": "Sociobioeconomia", "icon": "heart", "initials": "SB" }
+    { "name": "Cacau Nativo", "icon": "star", "initials": "CN" },
+    { "name": "Cupuaçu", "icon": "star", "initials": "CP" },
+    { "name": "Castanha do Pará", "icon": "shield", "initials": "CT" },
+    { "name": "Café Amazônico", "icon": "star", "initials": "CF" },
+    { "name": "Origem Rastreável", "icon": "check-circle", "initials": "OR" },
+    { "name": "ESG Legítimo", "icon": "medal", "initials": "ESG" },
+    { "name": "Sociobioeconomia", "icon": "handshake", "initials": "SB" }
   ]
 }

@@ -6,7 +6,7 @@
   "items": [
     {
       "number": "01.",
-      "icon": "tree",
+      "icon": "map-pin",
       "title": "Origem amazônica",
       "description": "Cacau nativo, cupuaçu, castanha do Pará e café — direto dos territórios produtores com rastreabilidade total."
     },
@@ -18,13 +18,13 @@
     },
     {
       "number": "03.",
-      "icon": "award",
+      "icon": "medal",
       "title": "Padrão premium",
       "description": "Embalagens de alta qualidade, carta institucional personalizada e curadoria estética refinada para o mundo corporativo."
     },
     {
       "number": "04.",
-      "icon": "leaf",
+      "icon": "shield",
       "title": "ESG legítimo",
       "description": "Geração de renda direta em territórios amazônicos, valorização da sociobioeconomia e indicadores de impacto concretos."
     }
